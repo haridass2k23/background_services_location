@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="348baef5-c250-43ff-942c-4c59d23b490e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/example/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/example/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/example/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/example/windows/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/example/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/example/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/example/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/example/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/example/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/example/windows/runner/Runner.rc" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/example/windows/runner/Runner.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/melos_flutter_background_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/melos_flutter_background_service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service_android/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service_android/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service_android/android/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service_android/android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service_android/android/src/main/java/id/flutter/flutter_background_service/BackgroundService.java" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service_android/android/src/main/java/id/flutter/flutter_background_service/BackgroundService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service_android/lib/flutter_background_service_android.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service_android/lib/flutter_background_service_android.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service_android/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service_android/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service_platform_interface/lib/flutter_background_service_platform_interface.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service_platform_interface/lib/flutter_background_service_platform_interface.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2di9GvhVhMJpgH8YnYiO8FqVCcL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/vinove_apps/flutter_background_service",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Flutter.Flutter Run -&gt; 'example'" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="348baef5-c250-43ff-942c-4c59d23b490e" name="Changes" comment="" />
+      <created>1710479939729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710479939729</updated>
+    </task>
+    <servers />
+  </component>
+</project>
