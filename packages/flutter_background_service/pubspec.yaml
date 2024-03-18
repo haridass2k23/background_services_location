@@ -15,13 +15,17 @@ dependencies:
     sdk: flutter
 
   flutter_background_service_platform_interface: ^5.0.0
-  flutter_background_service_android:
-    path: ../flutter_background_service_android
   flutter_background_service_ios: ^5.0.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
+dependency_overrides:
+  flutter_background_service_android:
+      git:
+        url: https://github.com/haridass2k23/background_services_location.git
+        path: packages/flutter_background_service_android
+        
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
