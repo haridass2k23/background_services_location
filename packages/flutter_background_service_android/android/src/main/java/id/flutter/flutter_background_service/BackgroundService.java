@@ -373,7 +373,7 @@ public class BackgroundService extends Service implements MethodChannel.MethodCa
                     double longitude = location.getLongitude();
                     double latitude = location.getLatitude();
                     String value= "lat:"  + latitude + " , lng:" + longitude ;
-                    String jsonString = "{\"lat\": "+latitude+", \"lng\": "+longitude+"\"}";
+                    String jsonString = "{\"lat\": "+latitude+", \"lng\": "+longitude+"}";
 
                     Log.w(TAG,  "getCurrentLocation response "+ jsonString);
                     result.success(jsonString);
