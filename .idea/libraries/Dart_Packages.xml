@@ -114,6 +114,13 @@
             </list>
           </value>
         </entry>
+        <entry key="flutter_background_service_android">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Local/Pub/Cache/git/background_services_location-d422937f34533f11d04d654d4141d47dea7b7877/packages/flutter_background_service_android/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="flutter_background_service_ios">
           <value>
             <list>
@@ -460,6 +467,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/background_services_location-d422937f34533f11d04d654d4141d47dea7b7877/packages/flutter_background_service_android/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.2/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.1/lib" />
