@@ -369,11 +369,14 @@ public class BackgroundService extends Service implements MethodChannel.MethodCa
 
             if (method.equalsIgnoreCase("getCurrentPosition")) {
                 getCurrentLocation(); 
-                double longitude = location.getLongitude();
-                double latitude = location.getLatitude();
-                String value= "lat"  + latitude + ", lng:" + longitude ;
-                Log.w(TAG,  "getCurrentLocation response "+ value);  
-                result.success(value);
+                if(null!=location){
+                    double longitude = location.getLongitude();
+                    double latitude = location.getLatitude();
+                    String value= "lat"  + latitude + ", lng:" + longitude ;
+                    Log.w(TAG,  "getCurrentLocation response "+ value);
+                    result.success(value);
+                }  
+               
                 return;
             }
 
